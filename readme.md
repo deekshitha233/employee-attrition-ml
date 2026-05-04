@@ -13,3 +13,11 @@ Predict employee attrition using classification algorithms
 Analyze factors affecting employee performance
 Build a complete ML pipeline from data preprocessing to deployment
 Deploy an interactive web app using Streamlit
+
+Technologies Used:
+Programming -	Python
+Data Handling -	Pandas, NumPy
+Visualization -	Matplotlib, Seaborn
+ML Models -	Scikit_learn
+Deployment - 	Streamlit
+Model Saving - 	Joblib
